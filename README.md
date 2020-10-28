@@ -1,3 +1,4 @@
+<h1>Numerical Methods</h1>
 This program coded in Python, is used to find out the root of a simple transcendental equation(x^4 -x -10=0).The precision of the obtained root is set to four decimals.It shows us the number of iterations taken by each method.
 The guess values/ranges of the functions are predefined.
 The following numerical methods are used in the program:
